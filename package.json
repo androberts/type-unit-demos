@@ -1,0 +1,21 @@
+{
+  "name": "type-unit-demos",
+  "version": "0.1.0",
+  "description": "TypeUnit plugin demo project (mocha)",
+  "main": "dist/index.js",
+  "dependencies": {
+    "type-unit": "^1.0.2",
+    "type-unit-mocha": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha dist/index.js"
+  },
+  "keywords": [
+    "TypeUnit",
+    "mocha",
+    "demo"
+  ],
+  "author": "Andrew Roberts <aroberts@illumina.com>",
+  "license": "MIT"
+}
